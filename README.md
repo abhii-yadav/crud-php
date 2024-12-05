@@ -17,7 +17,7 @@ This is a PHP project that implements CRUD (Create, Read, Update, Delete) operat
 ## Setup
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/php-crud-project.git
+   git clone https://github.com/abhii-yadav/crud-php.git
 
 2. Create a MySQL database named crud on XAMPP.
 3. Import the database schema from the crud.sql file.
